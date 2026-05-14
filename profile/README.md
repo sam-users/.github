@@ -2,14 +2,14 @@
 
 This is temporary.
 
-## Hosted here
+## Repositories hosted here
 
 - [SAM Coup&eacute; Standard Header Files](https://github.com/sam-users/samcoupestdheaders) (basic I/O port mappings and bits)
 - [SAM Coup&eacute; Datasheet Library](https://github.com/sam-users/sam-coupe-datasheets) (hardware datasheets and manuals)
 
 ## Essentials hosted elsewhere
 
-- [SIMCoup&eacute](https://github.com/simonowen/simcoupe) (SAM Coup&eacute; emulator - see also [https://simonowen.com/simcoupe/](https://simonowen.com/simcoupe/))
+- [SIMCoup&eacute;](https://github.com/simonowen/simcoupe) (SAM Coup&eacute; emulator - see also [https://simonowen.com/simcoupe/](https://simonowen.com/simcoupe/))
 - [Pyz80](https://github.com/simonowen/pyz80) - z80 assembler targeting SAM Coup&eacute; development
 
 ## Community
