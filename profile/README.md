@@ -9,8 +9,8 @@ This is temporary.
 
 ## Essentials hosted elsewhere
 
-- [SIMCoup&eacute;](https://github.com/simonowen/simcoupe) (SAM Coup&eacute; emulator - see also [https://simonowen.com/simcoupe/](https://simonowen.com/simcoupe/))
-- [Pyz80](https://github.com/simonowen/pyz80) - z80 assembler targeting SAM Coup&eacute; development
+- [SimCoupe](https://github.com/simonowen/simcoupe) (SAM Coup&eacute; emulator - see also [https://simonowen.com/simcoupe/](https://simonowen.com/simcoupe/))
+- [pyz80](https://github.com/simonowen/pyz80) - Z80 assembler targeting SAM Coup&eacute; development
 
 ## Community
 
