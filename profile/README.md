@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-This is temporary.
-
 ## Repositories hosted here
 
 - [SAM Coup&eacute; Standard Header Files](https://github.com/sam-users/samcoupestdheaders) (basic I/O port mappings and bits)
 - [SAM Coup&eacute; Datasheet Library](https://github.com/sam-users/sam-coupe-datasheets) (hardware datasheets and manuals)
 
-## Essentials hosted elsewhere
+## Essential emulators and tools
 
 - [SimCoupe](https://github.com/simonowen/simcoupe) (SAM Coup&eacute; emulator - see also [https://simonowen.com/simcoupe/](https://simonowen.com/simcoupe/))
 - [pyz80](https://github.com/simonowen/pyz80) - Z80 assembler targeting SAM Coup&eacute; development
+
+## SAM DOS and ROM source code
+
+### BASIC ROM
+
+- [SAM BASIC ROM v3.0 source code](https://github.com/simonowen/samrom)
+- [Annotated SAM ROM v3.0 Source Code](https://sam.speccy.cz/rom/sam_rom_v3-0_disasm_annotated.pdf)
+
+### DOS
+
+- [SAMDOS2 source code](https://github.com/stefandrissen/samdos)
+- [MasterDOS v2.3 source code](https://github.com/dandoore/masterdos)
+
+### Documentation
+
+- [SAM Coup&eacute; Technical Manual v3.0](https://github.com/stefandrissen/sam-coupe-technical-manual) (in Markdown format)
+
+(Also see the [SAM Coup&eacute; Datasheet Library](https://github.com/sam-users/sam-coupe-datasheets) ).
+
+
 
 ## Community
 
