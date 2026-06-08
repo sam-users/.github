@@ -2,7 +2,7 @@
 
 ## Repositories hosted here
 
-- [SAM Coup&eacute; Standard Header Files](https://github.com/sam-users/samcoupestdheaders) (basic I/O port mappings and bits)
+- [SAM Coup&eacute; Standard Header Files](https://github.com/sam-users/sam-coupe-std-headers) (basic I/O port mappings and bits)
 - [SAM Coup&eacute; Datasheet Library](https://github.com/sam-users/sam-coupe-datasheets) (hardware datasheets and manuals)
 
 ## Essential emulators and tools
