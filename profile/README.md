@@ -33,7 +33,8 @@
 ## Community
 
 - [World of SAM](https://www.worldofsam.org/)
-- [SAM Couple Library Code by Adrian Brown](https://github.com/adrianpbrown/SAMCoupe-Library-Code) Various assembler files, routines will be moved into this resource over time.
+- [Spectrum Computing](https://spectrumcomputing.co.uk/forums/viewforum.php?f=37)
+- [SAM Coup&eacute; Library Code by Adrian Brown](https://github.com/adrianpbrown/SAMCoupe-Library-Code) Various assembler files, routines will be moved into this resource over time.
 
 <!--
 
